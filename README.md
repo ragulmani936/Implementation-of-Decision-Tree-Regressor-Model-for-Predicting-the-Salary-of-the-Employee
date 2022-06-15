@@ -75,6 +75,10 @@ dt.predict([[5,6]])
 ## Label Encoder:
 ![pic 4](https://github.com/ragulmani936/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/label%20encoder.png)
 ## MSE:
-![pic 5]()
+![pic 5](https://github.com/ragulmani936/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/metrics.png)
+## R2:
+![pic 6]()
+## Predict:
+![pic 7]()
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
