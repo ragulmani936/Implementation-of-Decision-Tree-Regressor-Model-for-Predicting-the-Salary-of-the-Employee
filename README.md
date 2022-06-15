@@ -68,6 +68,7 @@ dt.predict([[5,6]])
 ## Output:
 ## Data head:
 ![pic 1]()
+![pic 1]()
 ## Data info:
 ![pic 2]()
 ## Data isnull:
